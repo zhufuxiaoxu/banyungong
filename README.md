@@ -1,9 +1,9 @@
-# VPN Information Aggregator
+# BanYungong
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node Version](https://img.shields.io/badge/node-%3E%3D12.0.0-brightgreen.svg)
 
-自动化收集和展示VPN服务信息的工具。该项目采用Node.js实现后端爬虫功能，Vue.js构建前端展示界面。
+我们不生产免费机场，我们只是免费机场的搬运工
 
 ## ✨ 功能特点
 
